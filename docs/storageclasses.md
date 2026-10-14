@@ -88,7 +88,7 @@ internal linkage.
 
 This means the variable can only be accessed from the same source file.
 
-## 3. extern
+## `3. extern`
 
 extern is used when a variable is defined somewhere else.
 
